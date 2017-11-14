@@ -10,10 +10,10 @@ var config = {
    */
     uaa: {
 
-        clientId: '1',
-        clientSecret: '12345',
-        serverUrl: 'http://xxx-xxx.neuseer.cn',
-        redirect_uri: 'http://xxx.neuseer.cn/callback',
+        clientId: '3',
+        clientSecret: 'IUT1lLLdm7TloU6UqCfxuo2tuuAHDPhPE7lZjGZp',
+        serverUrl: 'http://uaa99-amo565y9.neuseer.cn',
+        redirect_uri: 'http://binge.neuseer.cn/callback',
         defaultClientRoute: '/about'
 
     },
